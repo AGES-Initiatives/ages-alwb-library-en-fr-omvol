@@ -1,0 +1,18 @@
+A_Resource_Whose_Name = properties_en_FR_omvol
+
+version.designation = "vol"
+version.translator = "Orthodox Monastery of the Veil of our Lady"
+
+version.notice1 = ""
+
+version.copyright1 = "Orthodox Monastery of the Veil of our Lady"
+version.copyright2 = ""
+version.copyright3 = ""
+
+contact.address_1 = "Orthodox Monastery of the Veil of our Lady"
+contact.address_2 = "89400, Bussy-en-Othe"
+contact.address_3 = "France"
+contact.phone = ""
+contact.email = ""
+
+media.key = "For media only."
