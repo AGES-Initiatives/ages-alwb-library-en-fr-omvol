@@ -1,0 +1,763 @@
+A_Resource_Whose_Name = oc.m2.d1_en_FR_omvol
+
+ocGE.MM.GlorySticheraric.text = properties_en_FR_omvol.media.key
+
+ocGE.MM.BothSticheraric.text = properties_en_FR_omvol.media.key
+
+ocGE.MM.GloryHeirmologic.text = properties_en_FR_omvol.media.key
+
+ocGE.MM.BothHeirmologic.text = properties_en_FR_omvol.media.key
+
+ocSV.Dogmatic.mode = misc_en_FR_omvol.Mode2
+ocSV.Dogmatic.melody = ""
+ocSV.Dogmatic.text = ""
+
+ocSV.Aposticha1.mode = misc_en_FR_omvol.Mode2
+ocSV.Aposticha1.melody = he.a.m2_en_FR_omvol.OteEkTouXylou.notmetered
+ocSV.Aposticha1.text = ""
+
+ocSV.Aposticha2.mode = misc_en_FR_omvol.Mode2
+ocSV.Aposticha2.melody = he.a.m2_en_FR_omvol.OteEkTouXylou.notmetered
+ocSV.Aposticha2.text = ""
+
+ocSV.Aposticha3.mode = misc_en_FR_omvol.Mode2
+ocSV.Aposticha3.melody = he.a.m2_en_FR_omvol.OteEkTouXylou.notmetered
+ocSV.Aposticha3.text = ""
+
+ocSV.AposDogmatic.mode = misc_en_FR_omvol.Mode2
+ocSV.AposDogmatic.melody = ""
+ocSV.AposDogmatic.text = ""
+
+ocVE.MM.LIHC1.text = properties_en_FR_omvol.media.key
+
+ocVE.MM.LIHC2.text = properties_en_FR_omvol.media.key
+
+ocVE.MM.Stichologia.text = properties_en_FR_omvol.media.key
+
+ocVE.Stichera1.mode = misc_en_FR_omvol.Mode2
+ocVE.Stichera1.melody = ""
+ocVE.Stichera1.text = ""
+
+ocVE.Stichera2.mode = misc_en_FR_omvol.Mode2
+ocVE.Stichera2.melody = ""
+ocVE.Stichera2.text = ""
+
+ocVE.Stichera3.mode = misc_en_FR_omvol.Mode2
+ocVE.Stichera3.melody = ""
+ocVE.Stichera3.text = ""
+
+ocVE.Stichera4.mode = misc_en_FR_omvol.Mode2
+ocVE.Stichera4.melody = ""
+ocVE.Stichera4.text = ""
+
+ocVE.Stichera5.mode = misc_en_FR_omvol.Mode2
+ocVE.Stichera5.melody = ""
+ocVE.Stichera5.text = ""
+
+ocVE.Stichera6.mode = misc_en_FR_omvol.Mode2
+ocVE.Stichera6.melody = ""
+ocVE.Stichera6.text = ""
+
+ocVE.Stichera7.mode = misc_en_FR_omvol.Mode2
+ocVE.Stichera7.melody = ""
+ocVE.Stichera7.text = ""
+
+ocVE.SticTheotokion.mode = misc_en_FR_omvol.Mode2
+ocVE.SticTheotokion.melody = ""
+ocVE.SticTheotokion.text = ""
+
+ocVE.Aposticha1.mode = misc_en_FR_omvol.Mode2
+ocVE.Aposticha1.melody = ""
+ocVE.Aposticha1.text = ""
+
+ocVE.Aposticha2.mode = misc_en_FR_omvol.Mode2
+ocVE.Aposticha2.melody = ""
+ocVE.Aposticha2.text = ""
+
+ocVE.Aposticha3.mode = misc_en_FR_omvol.Mode2
+ocVE.Aposticha3.melody = ""
+ocVE.Aposticha3.text = ""
+
+ocVE.Aposticha4.mode = misc_en_FR_omvol.Mode2
+ocVE.Aposticha4.melody = ""
+ocVE.Aposticha4.text = ""
+
+ocVE.AposTheotokion.mode = misc_en_FR_omvol.Mode2
+ocVE.AposTheotokion.melody = ""
+ocVE.AposTheotokion.text = ""
+
+ocVE.Apolytikion.mode = misc_en_FR_omvol.Mode2
+ocVE.Apolytikion.melody = ""
+ocVE.Apolytikion.text = ""
+
+ocVE.ApolTheotokionVM.mode = misc_en_FR_omvol.Mode2
+ocVE.ApolTheotokionVM.melody = ""
+ocVE.ApolTheotokionVM.text = ""
+
+ocMO.Poet = poets_en_FR_omvol.MitrofanousSmirnis
+ocMO.Acrostic.text = ""
+
+ocMO.Ode11.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode11.ode = misc_en_FR_omvol.Ode1
+ocMO.Ode11.melody = he.h.m2_en_FR_omvol.EnVythoKatestrose.notmetered
+ocMO.Ode11.text = "Let us praise in song the Godhead sovereign nature Three in One saying: as Thou hast a sea of mercies never dry, guard those who venerate Thee and save them s Thou lovest mankind."
+
+ocMO.Ode12.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode12.ode = misc_en_FR_omvol.Ode1
+ocMO.Ode12.melody = he.h.m2_en_FR_omvol.EnVythoKatestrose.notmetered
+ocMO.Ode12.text = "Do Thou, O Father as Fount and Root, as Author of the naturally united Godhead in the Son and Thy Holy Spirit, pour light by a participation in Thy divinely acting radiance."
+
+ocMO.Ode13.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode13.ode = misc_en_FR_omvol.Ode1
+ocMO.Ode13.melody = he.h.m2_en_FR_omvol.EnVythoKatestrose.notmetered
+ocMO.Ode13.text = "O thrice-radiant divinely sovereign One, disperse all the darkness of my sins and passions by the enjoyment, O most Sweet, of Thine illuminating rays, and make me a temple of Thy glory that no man can approach and an undefiled tabernacle."
+
+ocMO.Ode1T.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode1T.ode = misc_en_FR_omvol.Ode1
+ocMO.Ode1T.melody = he.h.m2_en_FR_omvol.EnVythoKatestrose.notmetered
+ocMO.Ode1T.text = "The flow of our nature badly suffered in former days, and slipped towards corruption. After taking flesh from Thy womb, O Virgin, undefiled, God the Word, in His love shone forth for mankind and led us to knowledge of the mystery of the divine Sovereignty in three Lights."
+
+ocMO.Ode31.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode31.ode = misc_en_FR_omvol.Ode3
+ocMO.Ode31.melody = he.h.m2_en_FR_omvol.EnPetraMeTisPisteos.notmetered
+ocMO.Ode31.text = "O divine Sovereignty, I glorify Thee in Person of like honour and equality of nature. For Thou, being life coming from Life, hast appeared without change. Our God is one and there is none holy save Thee, O Lord."
+
+ocMO.Ode32.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode32.ode = misc_en_FR_omvol.Ode3
+ocMO.Ode32.melody = he.h.m2_en_FR_omvol.EnPetraMeTisPisteos.notmetered
+ocMO.Ode32.text = "Thou hast founded the immaterial and heavenly hosts as a glass for Thine excellencies to praise Thee without ceasing, O Trinity, undivided Monarchy. And now, do Thou also accept praise from our mouths of clay."
+
+ocMO.Ode33.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode33.ode = misc_en_FR_omvol.Ode3
+ocMO.Ode33.melody = he.h.m2_en_FR_omvol.EnPetraMeTisPisteos.notmetered
+ocMO.Ode33.text = "Confirm the hearts and understandings of Thy servants on the rock of faith and open them wide by the sea of Thy love, O Unity in Three Suns. For Thou art our God: putting our hope in Thee, we shall not be confounded."
+
+ocMO.Ode3T.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode3T.ode = misc_en_FR_omvol.Ode3
+ocMO.Ode3T.melody = he.h.m2_en_FR_omvol.EnPetraMeTisPisteos.notmetered
+ocMO.Ode3T.text = "He, Who before all was, brought the creation into being and has, by infinite goodness, taken substance in Thy womb, O Theotokos, and He has shone forth to all the Light in three-fold sun of the Godhead and Lordship."
+
+ocMO.Kathisma11.mode = misc_en_FR_omvol.Mode2
+ocMO.Kathisma11.melody = ""
+ocMO.Kathisma11.text = "When in the beginning Thou, O Lord, wast fashioning Adam, then to Thy word in Person, O Compassionate, hast Thou cried out 'Let us make him after our own likeness'. And the Holy Spirit, the Creator was present. Therefore we cry aloud to Thee: Glory to Thee, our Maker and our God."
+
+ocMO.Kathisma12.mode = misc_en_FR_omvol.Mode2
+ocMO.Kathisma12.melody = ""
+ocMO.Kathisma12.text = "When God thought fit to come to us, then did He go and dwell in Thy most pure womb. And through Thee, He saved the human lump, by giving the Kingdom of Heaven to all. Therefore we cry aloud to Thee, O Theotokos undefiled: Hail! O Lady."
+
+ocMO.Ode41.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode41.ode = misc_en_FR_omvol.Ode4
+ocMO.Ode41.melody = he.h.m2_en_FR_omvol.YmnoSeAkoi.notmetered
+ocMO.Ode41.text = "None of the immaterial hierarchies of angels is able to understand Thee, O Trinity in One without beginning. But we, with tongues of clay, praise with faith and glorify Thine essential goodness."
+
+ocMO.Ode42.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode42.ode = misc_en_FR_omvol.Ode4
+ocMO.Ode42.melody = he.h.m2_en_FR_omvol.YmnoSeAkoi.notmetered
+ocMO.Ode42.text = "As Thou, O Almighty, art the Fashioner of the nature of man, Thou Who dost see all things dost now behold my utter powerlessness. Therefore Thou hast taken pity on Thy servant and led him back to a more excellent life."
+
+ocMO.Ode43.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode43.ode = misc_en_FR_omvol.Ode4
+ocMO.Ode43.melody = he.h.m2_en_FR_omvol.YmnoSeAkoi.notmetered
+ocMO.Ode43.text = "We sing the praises of the sovereign One in Three Persons unconfused each One having His own separate being, yet united and undivided in counsel and glory and Godhead."
+
+ocMO.Ode4T.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode4T.ode = misc_en_FR_omvol.Ode4
+ocMO.Ode4T.melody = he.h.m2_en_FR_omvol.YmnoSeAkoi.notmetered
+ocMO.Ode4T.text = "O ever-virgin Theotokos, the Almighty plainly found Thee alone of this age to be a pure and undefiled temple in whom He went to dwell: and He transformed the nature of man because He loves mankind."
+
+ocMO.Ode51.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode51.ode = misc_en_FR_omvol.Ode5
+ocMO.Ode51.melody = he.h.m2_en_FR_omvol.OFotismos.notmetered
+ocMO.Ode51.text = "As Thou, O Prince of Peace, dost spread out over every and all things of Thy dispensation that exist the rays of Thy peaceful and redeeming gifts, guard me in Thy peace. For Thou art the Life and Peace of all."
+
+ocMO.Ode52.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode52.ode = misc_en_FR_omvol.Ode5
+ocMO.Ode52.melody = he.h.m2_en_FR_omvol.OFotismos.notmetered
+ocMO.Ode52.text = "As Thou hast appeared in the Bush to Moses in a vision of fire, so hast Thou, Word of the Father, been called \"Angel\", disclosing beforehand to us Thy coming and thereby hast Thou clearly proclaimed to all the power in Three Persons of the One sovereign Godhead."
+
+ocMO.Ode53.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode53.ode = misc_en_FR_omvol.Ode5
+ocMO.Ode53.melody = he.h.m2_en_FR_omvol.OFotismos.notmetered
+ocMO.Ode53.text = "O holy Trinity, ruling sole and supreme, Who puttest forth the natural co-eternal glory, do Thou make those who sing Thy praises in the Orthodox faith worthy to see the one bright light without beginning, threefold sun of Thine own glory."
+
+ocMO.Ode5T.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode5T.ode = misc_en_FR_omvol.Ode5
+ocMO.Ode5T.melody = he.h.m2_en_FR_omvol.OFotismos.notmetered
+ocMO.Ode5T.text = "God, the Word, being by essence, maintained by Himself alone for all ages, was ineffably held in Thy womb, O Virgin Mother, calling back men to the unity of the One Dominion."
+
+ocMO.Ode61.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode61.ode = misc_en_FR_omvol.Ode6
+ocMO.Ode61.melody = he.h.m2_en_FR_omvol.EnAvyssoPtaismaton.notmetered
+ocMO.Ode61.text = "Do Thou Who delightest in mercy, have mercy upon those who believe in Thee, O God, threefold Sun. And deliver Thy servants from faults and passions and perils."
+
+ocMO.Ode62.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode62.ode = misc_en_FR_omvol.Ode6
+ocMO.Ode62.melody = he.h.m2_en_FR_omvol.EnAvyssoPtaismaton.notmetered
+ocMO.Ode62.text = "In the ineffable sea of Thy goodness, give me as prize the brightness of Thine own radiance past mind, and the light-giving and thrice-shining radiance of the Godhead."
+
+ocMO.Ode6T.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode6T.ode = misc_en_FR_omvol.Ode6
+ocMO.Ode6T.melody = he.h.m2_en_FR_omvol.EnAvyssoPtaismaton.notmetered
+ocMO.Ode6T.text = "O Virgin, the Most High was made man, past speech, from Thee, and put on the whole frame of man and illumined me with the Light that shines threefold."
+
+ocMO.Kathisma21.mode = misc_en_FR_omvol.Mode2
+ocMO.Kathisma21.melody = he.a.m2_en_FR_omvol.EfsplagchniasYparchousa.notmetered
+ocMO.Kathisma21.text = "Do Thou Who are merciful, having stretched out towards us the sea of Thy compassion, accept us. Look upon the people glorifying Thee; receive the song of those beseeching Thee, O Three in One Who hast no beginning. For we have put our hope in Thee, the God of all, to give us forgiveness of our offences."
+
+ocMO.Kathisma22.mode = misc_en_FR_omvol.Mode2
+ocMO.Kathisma22.melody = he.a.m2_en_FR_omvol.EfsplagchniasYparchousa.notmetered
+ocMO.Kathisma22.text = "O Theotokos who are good, and dost feel for us, Thou hast conceived the Fount of Compassion. For Thou only art the defense of the faithful: Thou are the comfort of those who sorrow. THerefore we whose only riches are Thy succour now all fall before Thee in faith, so as to find deliverance from sufferings."
+
+ocMO.Ode71.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode71.ode = misc_en_FR_omvol.Ode7
+ocMO.Ode71.melody = he.h.m2_en_FR_omvol.EikonosChrysis.notmetered
+ocMO.Ode71.text = "Thou Who art One Lord unchanged in Three Persons, dost ever array the armies of angels without turning; show then also at all times my heart to be without turning and ready to glorify Thee warmly and to sing Thy praises with reverence."
+
+ocMO.Ode72.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode72.ode = misc_en_FR_omvol.Ode7
+ocMO.Ode72.melody = he.h.m2_en_FR_omvol.EikonosChrysis.notmetered
+ocMO.Ode72.text = "The intelligent  choirs of the immaterial beings, made bright by Thy beams, O God, Ruler sole and Supreme, threefold Sun, become by their position reflected lights; do Thou also as threefold shining Creator of Light show me also, by illumination and participation, their light."
+
+ocMO.Ode7T.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode7T.ode = misc_en_FR_omvol.Ode7
+ocMO.Ode7T.melody = he.h.m2_en_FR_omvol.EikonosChrysis.notmetered
+ocMO.Ode7T.text = "In order to direct us and lift us towards the heavens, forsake us not that love Thee, Who through love of mankind past words became man in the womb of the Virgin and hast made man like God and seated him with the Father on the throne of glory."
+
+ocMO.Ode81.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode81.ode = misc_en_FR_omvol.Ode8
+ocMO.Ode81.melody = he.h.m2_en_FR_omvol.IndalmatosChrysou.notmetered
+ocMO.Ode81.text = "O Trinity no man can approach, co-eternal, rule of God that has no beginning, precisely similar in all things, save the light-bearing properties, set every evil counsel of the opponents and every vexation of the devils at naught, ever keeping me unharmed, O Lord of all."
+
+ocMO.Ode82.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode82.ode = misc_en_FR_omvol.Ode8
+ocMO.Ode82.melody = he.h.m2_en_FR_omvol.IndalmatosChrysou.notmetered
+ocMO.Ode82.text = "O incomprehensible sole and supreme Sovereignty, threefold Sun, Who hast wisely and with all strength set up the world and preserved it at all times by a hierarchy without blemish, dwell in my heart for me to praise and glorify Thee with the choirs of angels unto all ages."
+
+ocMO.Ode83.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode83.ode = misc_en_FR_omvol.Ode8
+ocMO.Ode83.melody = he.h.m2_en_FR_omvol.IndalmatosChrysou.notmetered
+ocMO.Ode83.text = "O Wisdom of the Father, Thou incomprehensible Word of God beyond words, without changing THine unchangeable nature Thou has completely taken upon Thyself the nature of man, and hast taught all to honour the one and only Trinity as supreme Sovereign of all the ages."
+
+ocMO.Ode91.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode91.ode = misc_en_FR_omvol.Ode9
+ocMO.Ode91.melody = he.h.m2_en_FR_omvol.ITonProIliouFostira.notmetered
+ocMO.Ode91.text = "From the Light without beginning, the Son, co-eternal light, has shone and the Spirit, Light same in nature, has proceeded, ineffably, in divine majesty, the birth without change together with the procession past words having been assured."
+
+ocMO.Ode92.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode92.ode = misc_en_FR_omvol.Ode9
+ocMO.Ode92.melody = he.h.m2_en_FR_omvol.ITonProIliouFostira.notmetered
+ocMO.Ode92.text = "Enlighten with Thy threefold Light O Godhead, threefold Sun, the hearts of those who sing Thy praises and give them mind to understand all things and to do Thy good and perfect will and to glorify and magnify Thee."
+
+ocMO.Ode93.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode93.ode = misc_en_FR_omvol.Ode9
+ocMO.Ode93.melody = he.h.m2_en_FR_omvol.ITonProIliouFostira.notmetered
+ocMO.Ode93.text = "Being boundless by nature as God, and having a boundless sea of mercies, Thou, O Trinity hast taken pity in former times; do Thou now as then take pity on Thy servants and deliver them from faults, and temptations and adverse circumstances."
+
+ocMO.Ode9T.mode = misc_en_FR_omvol.Mode2
+ocMO.Ode9T.ode = misc_en_FR_omvol.Ode9
+ocMO.Ode9T.melody = he.h.m2_en_FR_omvol.ITonProIliouFostira.notmetered
+ocMO.Ode9T.text = "Save me, O my God, from all manner of abuse and evil, O Thou Almighty praised in Three Person, ineffably One, and guard Thy flock by the prayers of the Theotokos."
+
+ocMA.MM.GodIsTheLord.text = properties_en_FR_omvol.media.key
+
+ocMA.Kathisma11.mode = misc_en_FR_omvol.Mode2
+ocMA.Kathisma11.melody = ""
+ocMA.Kathisma11.text = ""
+
+ocMA.Kathisma12.mode = misc_en_FR_omvol.Mode2
+ocMA.Kathisma12.melody = ""
+ocMA.Kathisma12.text = ""
+
+ocMA.Kathisma13.mode = misc_en_FR_omvol.Mode2
+ocMA.Kathisma13.melody = ""
+ocMA.Kathisma13.text = ""
+
+ocMA.Kathisma21.mode = misc_en_FR_omvol.Mode2
+ocMA.Kathisma21.melody = ""
+ocMA.Kathisma21.text = ""
+
+ocMA.Kathisma22.mode = misc_en_FR_omvol.Mode2
+ocMA.Kathisma22.melody = ""
+ocMA.Kathisma22.text = ""
+
+ocMA.Kathisma23.mode = misc_en_FR_omvol.Mode2
+ocMA.Kathisma23.melody = ""
+ocMA.Kathisma23.text = ""
+
+ocMA.Hypakoe.mode = misc_en_FR_omvol.Mode2
+ocMA.Hypakoe.melody = ""
+ocMA.Hypakoe.text = ""
+
+ocMA.MM.AntiphonsProkeimenon.text = properties_en_FR_omvol.media.key
+
+ocMA.Antiphon11.mode = misc_en_FR_omvol.Mode2
+ocMA.Antiphon11.melody = ""
+ocMA.Antiphon11.text = ""
+
+ocMA.Antiphon12.mode = misc_en_FR_omvol.Mode2
+ocMA.Antiphon12.melody = ""
+ocMA.Antiphon12.text = ""
+
+ocMA.Antiphon13.mode = misc_en_FR_omvol.Mode2
+ocMA.Antiphon13.melody = ""
+ocMA.Antiphon13.text = ""
+
+ocMA.Antiphon21.mode = misc_en_FR_omvol.Mode2
+ocMA.Antiphon21.melody = ""
+ocMA.Antiphon21.text = ""
+
+ocMA.Antiphon22.mode = misc_en_FR_omvol.Mode2
+ocMA.Antiphon22.melody = ""
+ocMA.Antiphon22.text = ""
+
+ocMA.Antiphon23.mode = misc_en_FR_omvol.Mode2
+ocMA.Antiphon23.melody = ""
+ocMA.Antiphon23.text = ""
+
+ocMA.Antiphon31.mode = misc_en_FR_omvol.Mode2
+ocMA.Antiphon31.melody = ""
+ocMA.Antiphon31.text = ""
+
+ocMA.Antiphon32.mode = misc_en_FR_omvol.Mode2
+ocMA.Antiphon32.melody = ""
+ocMA.Antiphon32.text = ""
+
+ocMA.Antiphon33.mode = misc_en_FR_omvol.Mode2
+ocMA.Antiphon33.melody = ""
+ocMA.Antiphon33.text = ""
+
+ocMA.MM.Prokeimenon.text = properties_en_FR_omvol.media.key
+
+ocMA.C1Poet = poets_en_FR_omvol.IoannouMonachou
+ocMA.C2Poet = poets_en_FR_omvol.IoannouMonachou
+ocMA.C2Acrostic.text = ""
+
+ocMA.C3Poet = poets_en_FR_omvol.IoannouMonachou
+ocMA.C3Acrostic.text = ""
+
+ocMA.OdeS1C1H.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS1C1H.ode = misc_en_FR_omvol.Ode1
+ocMA.OdeS1C1H.melody = misc_en_FR_omvol.Heirmos
+ocMA.OdeS1C1H.text = he.h.m2_en_FR_omvol.EnVythoKatestrose.text
+
+ocMA.OdeS1C11.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS1C11.ode = misc_en_FR_omvol.Ode1
+ocMA.OdeS1C11.melody = he.h.m2_en_FR_omvol.EnVythoKatestrose.notmetered
+ocMA.OdeS1C11.text = ""
+
+ocMA.OdeS1C12.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS1C12.ode = misc_en_FR_omvol.Ode1
+ocMA.OdeS1C12.melody = he.h.m2_en_FR_omvol.EnVythoKatestrose.notmetered
+ocMA.OdeS1C12.text = ""
+
+ocMA.OdeS1C1T.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS1C1T.ode = misc_en_FR_omvol.Ode1
+ocMA.OdeS1C1T.melody = he.h.m2_en_FR_omvol.EnVythoKatestrose.notmetered
+ocMA.OdeS1C1T.text = ""
+
+ocMA.OdeS1C21.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS1C21.ode = misc_en_FR_omvol.Ode1
+ocMA.OdeS1C21.melody = he.h.m2_en_FR_omvol.AtriptonAsynithi.notmetered
+ocMA.OdeS1C21.text = ""
+
+ocMA.OdeS1C22.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS1C22.ode = misc_en_FR_omvol.Ode1
+ocMA.OdeS1C22.melody = he.h.m2_en_FR_omvol.AtriptonAsynithi.notmetered
+ocMA.OdeS1C22.text = ""
+
+ocMA.OdeS1C31.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS1C31.ode = misc_en_FR_omvol.Ode1
+ocMA.OdeS1C31.melody = he.h.m2_en_FR_omvol.AtriptonAsynithi.notmetered
+ocMA.OdeS1C31.text = ""
+
+ocMA.OdeS1C32.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS1C32.ode = misc_en_FR_omvol.Ode1
+ocMA.OdeS1C32.melody = he.h.m2_en_FR_omvol.AtriptonAsynithi.notmetered
+ocMA.OdeS1C32.text = ""
+
+ocMA.OdeS1C33.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS1C33.ode = misc_en_FR_omvol.Ode1
+ocMA.OdeS1C33.melody = he.h.m2_en_FR_omvol.AtriptonAsynithi.notmetered
+ocMA.OdeS1C33.text = ""
+
+ocMA.OdeS3C1H.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS3C1H.ode = misc_en_FR_omvol.Ode3
+ocMA.OdeS3C1H.melody = misc_en_FR_omvol.Heirmos
+ocMA.OdeS3C1H.text = he.h.m2_en_FR_omvol.ExinthisenIErimos.text
+
+ocMA.OdeS3C11.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS3C11.ode = misc_en_FR_omvol.Ode4
+ocMA.OdeS3C11.melody = he.h.m2_en_FR_omvol.ExinthisenIErimos.notmetered
+ocMA.OdeS3C11.text = ""
+
+ocMA.OdeS3C12.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS3C12.ode = misc_en_FR_omvol.Ode3
+ocMA.OdeS3C12.melody = he.h.m2_en_FR_omvol.ExinthisenIErimos.notmetered
+ocMA.OdeS3C12.text = ""
+
+ocMA.OdeS3C1T.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS3C1T.ode = misc_en_FR_omvol.Ode3
+ocMA.OdeS3C1T.melody = he.h.m2_en_FR_omvol.ExinthisenIErimos.notmetered
+ocMA.OdeS3C1T.text = ""
+
+ocMA.OdeS3C21.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS3C21.ode = misc_en_FR_omvol.Ode3
+ocMA.OdeS3C21.melody = he.h.m2_en_FR_omvol.ToxonSynetriviDynaston.notmetered
+ocMA.OdeS3C21.text = ""
+
+ocMA.OdeS3C22.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS3C22.ode = misc_en_FR_omvol.Ode3
+ocMA.OdeS3C22.melody = he.h.m2_en_FR_omvol.ToxonSynetriviDynaston.notmetered
+ocMA.OdeS3C22.text = ""
+
+ocMA.OdeS3C31.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS3C31.ode = misc_en_FR_omvol.Ode3
+ocMA.OdeS3C31.melody = he.h.m2_en_FR_omvol.ToxonSynetriviDynaston.notmetered
+ocMA.OdeS3C31.text = ""
+
+ocMA.OdeS3C32.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS3C32.ode = misc_en_FR_omvol.Ode3
+ocMA.OdeS3C32.melody = he.h.m2_en_FR_omvol.ToxonSynetriviDynaston.notmetered
+ocMA.OdeS3C32.text = ""
+
+ocMA.OdeS4C1H.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS4C1H.ode = misc_en_FR_omvol.Ode4
+ocMA.OdeS4C1H.melody = misc_en_FR_omvol.Heirmos
+ocMA.OdeS4C1H.text = he.h.m2_en_FR_omvol.ElilythasEkParthenou.text
+
+ocMA.OdeS4C11.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS4C11.ode = misc_en_FR_omvol.Ode4
+ocMA.OdeS4C11.melody = he.h.m2_en_FR_omvol.ElilythasEkParthenou.notmetered
+ocMA.OdeS4C11.text = ""
+
+ocMA.OdeS4C12.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS4C12.ode = misc_en_FR_omvol.Ode4
+ocMA.OdeS4C12.melody = he.h.m2_en_FR_omvol.ElilythasEkParthenou.notmetered
+ocMA.OdeS4C12.text = ""
+
+ocMA.OdeS4C1T.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS4C1T.ode = misc_en_FR_omvol.Ode4
+ocMA.OdeS4C1T.melody = he.h.m2_en_FR_omvol.ElilythasEkParthenou.notmetered
+ocMA.OdeS4C1T.text = ""
+
+ocMA.OdeS4C21.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS4C21.ode = misc_en_FR_omvol.Ode4
+ocMA.OdeS4C21.melody = he.h.m2_en_FR_omvol.AkikoaKyrieTinEndoxon.notmetered
+ocMA.OdeS4C21.text = ""
+
+ocMA.OdeS4C22.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS4C22.ode = misc_en_FR_omvol.Ode4
+ocMA.OdeS4C22.melody = he.h.m2_en_FR_omvol.AkikoaKyrieTinEndoxon.notmetered
+ocMA.OdeS4C22.text = ""
+
+ocMA.OdeS4C31.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS4C31.ode = misc_en_FR_omvol.Ode4
+ocMA.OdeS4C31.melody = he.h.m2_en_FR_omvol.AkikoaKyrieTinEndoxon.notmetered
+ocMA.OdeS4C31.text = ""
+
+ocMA.OdeS4C32.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS4C32.ode = misc_en_FR_omvol.Ode4
+ocMA.OdeS4C32.melody = he.h.m2_en_FR_omvol.AkikoaKyrieTinEndoxon.notmetered
+ocMA.OdeS4C32.text = ""
+
+ocMA.OdeS5C1H.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS5C1H.ode = misc_en_FR_omvol.Ode5
+ocMA.OdeS5C1H.melody = misc_en_FR_omvol.Heirmos
+ocMA.OdeS5C1H.text = he.h.m2_en_FR_omvol.MesitisTheou.text
+
+ocMA.OdeS5C11.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS5C11.ode = misc_en_FR_omvol.Ode5
+ocMA.OdeS5C11.melody = he.h.m2_en_FR_omvol.MesitisTheou.notmetered
+ocMA.OdeS5C11.text = ""
+
+ocMA.OdeS5C12.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS5C12.ode = misc_en_FR_omvol.Ode5
+ocMA.OdeS5C12.melody = he.h.m2_en_FR_omvol.MesitisTheou.notmetered
+ocMA.OdeS5C12.text = ""
+
+ocMA.OdeS5C1T.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS5C1T.ode = misc_en_FR_omvol.Ode5
+ocMA.OdeS5C1T.melody = he.h.m2_en_FR_omvol.MesitisTheou.notmetered
+ocMA.OdeS5C1T.text = ""
+
+ocMA.OdeS5C21.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS5C21.ode = misc_en_FR_omvol.Ode5
+ocMA.OdeS5C21.melody = he.h.m2_en_FR_omvol.OAnthraxToIsaia.notmetered
+ocMA.OdeS5C21.text = ""
+
+ocMA.OdeS5C22.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS5C22.ode = misc_en_FR_omvol.Ode5
+ocMA.OdeS5C22.melody = he.h.m2_en_FR_omvol.OAnthraxToIsaia.notmetered
+ocMA.OdeS5C22.text = ""
+
+ocMA.OdeS5C31.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS5C31.ode = misc_en_FR_omvol.Ode5
+ocMA.OdeS5C31.melody = he.h.m2_en_FR_omvol.OAnthraxToIsaia.notmetered
+ocMA.OdeS5C31.text = ""
+
+ocMA.OdeS5C32.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS5C32.ode = misc_en_FR_omvol.Ode5
+ocMA.OdeS5C32.melody = he.h.m2_en_FR_omvol.OAnthraxToIsaia.notmetered
+ocMA.OdeS5C32.text = ""
+
+ocMA.OdeS6C1H.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS6C1H.ode = misc_en_FR_omvol.Ode6
+ocMA.OdeS6C1H.melody = misc_en_FR_omvol.Heirmos
+ocMA.OdeS6C1H.text = he.h.m2_en_FR_omvol.EnAvyssoPtaismaton.text
+
+ocMA.OdeS6C11.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS6C11.ode = misc_en_FR_omvol.Ode6
+ocMA.OdeS6C11.melody = he.h.m2_en_FR_omvol.EnAvyssoPtaismaton.notmetered
+ocMA.OdeS6C11.text = ""
+
+ocMA.OdeS6C12.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS6C12.ode = misc_en_FR_omvol.Ode6
+ocMA.OdeS6C12.melody = he.h.m2_en_FR_omvol.EnAvyssoPtaismaton.notmetered
+ocMA.OdeS6C12.text = ""
+
+ocMA.OdeS6C1T.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS6C1T.ode = misc_en_FR_omvol.Ode6
+ocMA.OdeS6C1T.melody = he.h.m2_en_FR_omvol.EnAvyssoPtaismaton.notmetered
+ocMA.OdeS6C1T.text = ""
+
+ocMA.OdeS6C21.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS6C21.ode = misc_en_FR_omvol.Ode6
+ocMA.OdeS6C21.melody = he.h.m2_en_FR_omvol.IchouRimatonDeiseos.notmetered
+ocMA.OdeS6C21.text = ""
+
+ocMA.OdeS6C22.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS6C22.ode = misc_en_FR_omvol.Ode6
+ocMA.OdeS6C22.melody = he.h.m2_en_FR_omvol.IchouRimatonDeiseos.notmetered
+ocMA.OdeS6C22.text = ""
+
+ocMA.OdeS6C31.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS6C31.ode = misc_en_FR_omvol.Ode6
+ocMA.OdeS6C31.melody = he.h.m2_en_FR_omvol.IchouRimatonDeiseos.notmetered
+ocMA.OdeS6C31.text = ""
+
+ocMA.OdeS6C32.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS6C32.ode = misc_en_FR_omvol.Ode6
+ocMA.OdeS6C32.melody = he.h.m2_en_FR_omvol.IchouRimatonDeiseos.notmetered
+ocMA.OdeS6C32.text = ""
+
+ocMA.Kontakion.mode = misc_en_FR_omvol.Mode2
+ocMA.Kontakion.melody = he.a.m2_en_FR_omvol.TaAnoZiton.notmetered
+ocMA.Kontakion.text = ""
+
+ocMA.Oikos.mode = misc_en_FR_omvol.Mode2
+ocMA.Oikos.text = ""
+
+ocMA.OdeS7C1H.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS7C1H.ode = misc_en_FR_omvol.Ode7
+ocMA.OdeS7C1H.melody = misc_en_FR_omvol.Heirmos
+ocMA.OdeS7C1H.text = he.h.m2_en_FR_omvol.AntitheonProstagma.text
+
+ocMA.OdeS7C11.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS7C11.ode = misc_en_FR_omvol.Ode7
+ocMA.OdeS7C11.melody = he.h.m2_en_FR_omvol.AntitheonProstagma.notmetered
+ocMA.OdeS7C11.text = ""
+
+ocMA.OdeS7C12.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS7C12.ode = misc_en_FR_omvol.Ode7
+ocMA.OdeS7C12.melody = he.h.m2_en_FR_omvol.AntitheonProstagma.notmetered
+ocMA.OdeS7C12.text = ""
+
+ocMA.OdeS7C1T.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS7C1T.ode = misc_en_FR_omvol.Ode7
+ocMA.OdeS7C1T.melody = he.h.m2_en_FR_omvol.AntitheonProstagma.notmetered
+ocMA.OdeS7C1T.text = ""
+
+ocMA.OdeS7C21.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS7C21.ode = misc_en_FR_omvol.Ode7
+ocMA.OdeS7C21.melody = he.h.m2_en_FR_omvol.RitoresAnedeichthisanPaides.notmetered
+ocMA.OdeS7C21.text = ""
+
+ocMA.OdeS7C22.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS7C22.ode = misc_en_FR_omvol.Ode7
+ocMA.OdeS7C22.melody = he.h.m2_en_FR_omvol.RitoresAnedeichthisanPaides.notmetered
+ocMA.OdeS7C22.text = ""
+
+ocMA.OdeS7C23.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS7C23.ode = misc_en_FR_omvol.Ode7
+ocMA.OdeS7C23.melody = he.h.m2_en_FR_omvol.RitoresAnedeichthisanPaides.notmetered
+ocMA.OdeS7C23.text = ""
+
+ocMA.OdeS7C31.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS7C31.ode = misc_en_FR_omvol.Ode7
+ocMA.OdeS7C31.melody = he.h.m2_en_FR_omvol.RitoresAnedeichthisanPaides.notmetered
+ocMA.OdeS7C31.text = ""
+
+ocMA.OdeS7C32.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS7C32.ode = misc_en_FR_omvol.Ode7
+ocMA.OdeS7C32.melody = he.h.m2_en_FR_omvol.RitoresAnedeichthisanPaides.notmetered
+ocMA.OdeS7C32.text = ""
+
+ocMA.OdeS7C33.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS7C33.ode = misc_en_FR_omvol.Ode7
+ocMA.OdeS7C33.melody = he.h.m2_en_FR_omvol.RitoresAnedeichthisanPaides.notmetered
+ocMA.OdeS7C33.text = ""
+
+ocMA.OdeS8C1H.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS8C1H.ode = misc_en_FR_omvol.Ode8
+ocMA.OdeS8C1H.melody = misc_en_FR_omvol.Heirmos
+ocMA.OdeS8C1H.text = he.h.m2_en_FR_omvol.KaminosPote.text
+
+ocMA.OdeS8C11.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS8C11.ode = misc_en_FR_omvol.Ode8
+ocMA.OdeS8C11.melody = he.h.m2_en_FR_omvol.KaminosPote.notmetered
+ocMA.OdeS8C11.text = ""
+
+ocMA.OdeS8C12.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS8C12.ode = misc_en_FR_omvol.Ode8
+ocMA.OdeS8C12.melody = he.h.m2_en_FR_omvol.KaminosPote.notmetered
+ocMA.OdeS8C12.text = ""
+
+ocMA.OdeS8C1T.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS8C1T.ode = misc_en_FR_omvol.Ode8
+ocMA.OdeS8C1T.melody = he.h.m2_en_FR_omvol.KaminosPote.notmetered
+ocMA.OdeS8C1T.text = ""
+
+ocMA.OdeS8C21.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS8C21.ode = misc_en_FR_omvol.Ode8
+ocMA.OdeS8C21.melody = he.h.m2_en_FR_omvol.IndalmatosChrysou.notmetered
+ocMA.OdeS8C21.text = ""
+
+ocMA.OdeS8C22.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS8C22.ode = misc_en_FR_omvol.Ode8
+ocMA.OdeS8C22.melody = he.h.m2_en_FR_omvol.IndalmatosChrysou.notmetered
+ocMA.OdeS8C22.text = ""
+
+ocMA.OdeS8C31.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS8C31.ode = misc_en_FR_omvol.Ode8
+ocMA.OdeS8C31.melody = he.h.m2_en_FR_omvol.IndalmatosChrysou.notmetered
+ocMA.OdeS8C31.text = ""
+
+ocMA.OdeS8C32.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS8C32.ode = misc_en_FR_omvol.Ode8
+ocMA.OdeS8C32.melody = he.h.m2_en_FR_omvol.IndalmatosChrysou.notmetered
+ocMA.OdeS8C32.text = ""
+
+ocMA.OdeS9C1H.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS9C1H.ode = misc_en_FR_omvol.Ode9
+ocMA.OdeS9C1H.melody = misc_en_FR_omvol.Heirmos
+ocMA.OdeS9C1H.text = he.h.m2_en_FR_omvol.AnarchouGennitoros.text
+
+ocMA.OdeS9C11.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS9C11.ode = misc_en_FR_omvol.Ode9
+ocMA.OdeS9C11.melody = he.h.m2_en_FR_omvol.AnarchouGennitoros.notmetered
+ocMA.OdeS9C11.text = ""
+
+ocMA.OdeS9C12.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS9C12.ode = misc_en_FR_omvol.Ode9
+ocMA.OdeS9C12.melody = he.h.m2_en_FR_omvol.AnarchouGennitoros.notmetered
+ocMA.OdeS9C12.text = ""
+
+ocMA.OdeS9C1Tr.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS9C1Tr.ode = misc_en_FR_omvol.Ode9
+ocMA.OdeS9C1Tr.melody = he.h.m2_en_FR_omvol.AnarchouGennitoros.notmetered
+ocMA.OdeS9C1Tr.text = ""
+
+ocMA.OdeS9C21.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS9C21.ode = misc_en_FR_omvol.Ode9
+ocMA.OdeS9C21.melody = he.h.m2_en_FR_omvol.AnarchouGennitoros.notmetered
+ocMA.OdeS9C21.text = ""
+
+ocMA.OdeS9C22.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS9C22.ode = misc_en_FR_omvol.Ode9
+ocMA.OdeS9C22.melody = he.h.m2_en_FR_omvol.AnarchouGennitoros.notmetered
+ocMA.OdeS9C22.text = ""
+
+ocMA.OdeS9C31.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS9C31.ode = misc_en_FR_omvol.Ode9
+ocMA.OdeS9C31.melody = he.h.m2_en_FR_omvol.AnarchouGennitoros.notmetered
+ocMA.OdeS9C31.text = ""
+
+ocMA.OdeS9C32.mode = misc_en_FR_omvol.Mode2
+ocMA.OdeS9C32.ode = misc_en_FR_omvol.Ode9
+ocMA.OdeS9C32.melody = he.h.m2_en_FR_omvol.AnarchouGennitoros.notmetered
+ocMA.OdeS9C32.text = ""
+
+ocMA.Magnificat.mode = misc_en_FR_omvol.Mode2
+ocMA.Magnificat.text = //he.h.m6_en_FR_omvol.TinTimioteran.text
+
+ocMA.MM.Lauds01.text = properties_en_FR_omvol.media.key
+
+ocMA.MM.Lauds02.text = properties_en_FR_omvol.media.key
+ocMA.MM.LaudsStichologia.text = ""
+
+ocMA.Lauds1.mode = misc_en_FR_omvol.Mode2
+ocMA.Lauds1.melody = ""
+ocMA.Lauds1.text = ""
+
+ocMA.Lauds2.mode = misc_en_FR_omvol.Mode2
+ocMA.Lauds2.melody = ""
+ocMA.Lauds2.text = ""
+
+ocMA.Lauds3.mode = misc_en_FR_omvol.Mode2
+ocMA.Lauds3.melody = ""
+ocMA.Lauds3.text = ""
+
+ocMA.Lauds4.mode = misc_en_FR_omvol.Mode2
+ocMA.Lauds4.melody = ""
+ocMA.Lauds4.text = ""
+
+ocMA.Lauds5.mode = misc_en_FR_omvol.Mode2
+ocMA.Lauds5.melody = ""
+ocMA.Lauds5.text = ""
+
+ocMA.Lauds6.mode = misc_en_FR_omvol.Mode2
+ocMA.Lauds6.melody = ""
+ocMA.Lauds6.text = ""
+
+ocMA.Lauds7.mode = misc_en_FR_omvol.Mode2
+ocMA.Lauds7.melody = ""
+ocMA.Lauds7.text = ""
+
+ocMA.Lauds8.mode = misc_en_FR_omvol.Mode2
+ocMA.Lauds8.melody = ""
+ocMA.Lauds8.text = ""
+
+ocMA.ApolTheotokion.mode = misc_en_FR_omvol.Mode2
+ocMA.ApolTheotokion.melody = ""
+ocMA.ApolTheotokion.text = //ho.s03_en_FR_omvol.hoMA.SunTroparion1.text
+
+ocLI.Beatitudes1.mode = misc_en_FR_omvol.Mode2
+ocLI.Beatitudes1.melody = he.h.m2_en_FR_omvol.SyToLogoSouKyrie.notmetered
+ocLI.Beatitudes1.text = ""
+
+ocLI.Beatitudes2.mode = misc_en_FR_omvol.Mode2
+ocLI.Beatitudes2.melody = he.h.m2_en_FR_omvol.SyToLogoSouKyrie.notmetered
+ocLI.Beatitudes2.text = ""
+
+ocLI.Beatitudes3.mode = misc_en_FR_omvol.Mode2
+ocLI.Beatitudes3.melody = he.h.m2_en_FR_omvol.SyToLogoSouKyrie.notmetered
+ocLI.Beatitudes3.text = ""
+
+ocLI.Beatitudes4.mode = misc_en_FR_omvol.Mode2
+ocLI.Beatitudes4.melody = he.h.m2_en_FR_omvol.SyToLogoSouKyrie.notmetered
+ocLI.Beatitudes4.text = ""
+
+ocLI.Beatitudes5.mode = misc_en_FR_omvol.Mode2
+ocLI.Beatitudes5.melody = he.h.m2_en_FR_omvol.SyToLogoSouKyrie.notmetered
+ocLI.Beatitudes5.text = ""
+
+ocLI.Beatitudes6.mode = misc_en_FR_omvol.Mode2
+ocLI.Beatitudes6.melody = he.h.m2_en_FR_omvol.SyToLogoSouKyrie.notmetered
+ocLI.Beatitudes6.text = ""
+
+ocLI.BeatitudesTr.mode = misc_en_FR_omvol.Mode2
+ocLI.BeatitudesTr.melody = he.h.m2_en_FR_omvol.SyToLogoSouKyrie.notmetered
+ocLI.BeatitudesTr.text = ""
+
+ocLI.BeatitudesT.mode = misc_en_FR_omvol.Mode2
+ocLI.BeatitudesT.melody = he.h.m2_en_FR_omvol.SyToLogoSouKyrie.notmetered
+ocLI.BeatitudesT.text = ""
+
+ocLI.MM.Beatitudes123Tas1234.text = properties_en_FR_omvol.media.key
+ocLI.MM.Beatitudes123Tas5678.text = properties_en_FR_omvol.media.key
+ocLI.MM.Beatitudes123456TrTas5678910GB.text = properties_en_FR_omvol.media.key
+
+ocLI.MM.Prokeimenon.text = ""
+
+ocLI.Alleuia.text = //prayers_en_FR_omvol.Allilouia3.text
+
