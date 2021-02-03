@@ -1,0 +1,648 @@
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocGE|MM|GlorySticheraric|text', 'text' : 'For media only.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocGE|MM|BothSticheraric|text', 'text' : 'For media only.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocGE|MM|GloryHeirmologic|text', 'text' : 'For media only.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocGE|MM|BothHeirmologic|text', 'text' : 'For media only.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocSV|Dogmatic|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocSV|Dogmatic|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocSV|Dogmatic|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocSV|Aposticha1|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocSV|Aposticha1|melody', 'text' : 'N/M (What a paradoxal.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocSV|Aposticha1|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocSV|Aposticha2|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocSV|Aposticha2|melody', 'text' : 'N/M (What a paradoxal.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocSV|Aposticha2|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocSV|Aposticha3|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocSV|Aposticha3|melody', 'text' : 'N/M (What a paradoxal.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocSV|Aposticha3|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocSV|AposDogmatic|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocSV|AposDogmatic|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocSV|AposDogmatic|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|MM|LIHC1|text', 'text' : 'For media only.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|MM|LIHC2|text', 'text' : 'For media only.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|MM|Stichologia|text', 'text' : 'For media only.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Stichera1|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Stichera1|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Stichera1|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Stichera2|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Stichera2|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Stichera2|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Stichera3|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Stichera3|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Stichera3|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Stichera4|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Stichera4|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Stichera4|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Stichera5|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Stichera5|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Stichera5|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Stichera6|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Stichera6|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Stichera6|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Stichera7|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Stichera7|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Stichera7|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|SticTheotokion|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|SticTheotokion|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|SticTheotokion|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Aposticha1|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Aposticha1|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Aposticha1|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Aposticha2|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Aposticha2|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Aposticha2|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Aposticha3|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Aposticha3|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Aposticha3|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Aposticha4|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Aposticha4|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Aposticha4|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|AposTheotokion|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|AposTheotokion|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|AposTheotokion|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Apolytikion|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Apolytikion|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|Apolytikion|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|ApolTheotokionVM|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|ApolTheotokionVM|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocVE|ApolTheotokionVM|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Poet', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Acrostic|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode11|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode11|ode', 'text' : 'Canticle One.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode11|melody', 'text' : 'N/M (The rod of Moses.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode11|text', 'text' : 'We fall before God: the Sovereign Master, threefold Sun, magistrate and forethinker of all, Who alone is naturally good and has one glory of the God head, and we sing the thrice-holy hymn.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode12|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode12|ode', 'text' : 'Canticle One.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode12|melody', 'text' : 'N/M (The rod of Moses.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode12|text', 'text' : 'Plainly remembering the divine sayings and oracles from on high, we glorify the One divine sovereign Nature, co-eternal, without beginning in three Persons, Father, Son and Spirit, all-powerful and all-creative.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode13|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode13|ode', 'text' : 'Canticle One.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode13|melody', 'text' : 'N/M (The rod of Moses.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode13|text', 'text' : 'As Abraham was an initiate in sacred things he received in former time rejoicing the Maker of all and God and Lord in three Persons revealed in a holy figure and he recognised the single power of these three Persons.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode1T|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode1T|ode', 'text' : 'Canticle One.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode1T|melody', 'text' : 'N/M (The rod of Moses.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode1T|text', 'text' : 'Without knowing wedlock Thou, O all-pure Virgin, hast conceived Christ Who for our sakes took our nature upon Himself and remained unchanged according to both natures. Entreat Him without ceasing for me to be given deliverance from temptations.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode31|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode31|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode31|melody', 'text' : 'N/M (In the beginning.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode31|text', 'text' : 'Isaiah saw Thee upon the high throne, O God that cannot be approached and King of glory, with the cherubim and seraphim glorifying Thee in never-ceasing hymns, O One in three Persons.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode32|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode32|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode32|melody', 'text' : 'N/M (In the beginning.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode32|text', 'text' : 'The only Word was begotten of the Father as from the Mind, and the Spirit proceeded ineffably. Grasping this with our minds by appropriate thoughts and written teachings we worship the one God, threefold Sun.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode33|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode33|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode33|melody', 'text' : 'N/M (In the beginning.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode33|text', 'text' : 'The Father Who is unbegotten has of His own essential brightness begotten without change the Son, Light of Light: and in procession He puts forth the Spirit, Light of the same nature creating all and identical in honour.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode3T|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode3T|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode3T|melody', 'text' : 'N/M (In the beginning.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode3T|text', 'text' : 'O Virgin Mother Mary, Thou hast been shown forth an unsullied temple of Christ made Person Who all-powerfully and all wisely orders and holds up all things. By Thy motherly entreaties do Thou make Him merciful to me.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Kathisma11|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Kathisma11|melody', 'text' : 'N/M (When he perceived.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Kathisma11|text', 'text' : 'We faithful now praise the might of the threefold Sun and perfect Rule, Who by a single behest has established all the choirs of angels on high and the hierarchs of the Church below to cry: Holy, Holy, Holy are Thou, O most good God, glory and song be to Thy power.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Kathisma12|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Kathisma12|melody', 'text' : 'N/M (When he perceived.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Kathisma12|text', 'text' : 'Do Thou who hast borne the changeless God and who are good, establish by Thy motherly intercessions my heart ever changing by sin, by the attacks of the wily one and by heedlessness that I may also thankfully glorify Thee, Mary Mother of God. Have mercy upon Thy flock that Thou hast chosen, O Thou who art without spot.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode41|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode41|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode41|melody', 'text' : 'N/M (You are my strength.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode41|text', 'text' : 'The eastern manifestation of the Godhead to those in darkness has dispersed the gloomy night of passions and has shone forth the Sun of Righteousness, simple according to essence and in Persons threefold light, Whom we ever praise and glorify.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode42|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode42|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode42|melody', 'text' : 'N/M (You are my strength.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode42|text', 'text' : 'With lips of clay we glorify Him Who is praised by the mouths of the seraphim, the single and trinitarian Lord of glory by essence and Persons and we cry aloud, O Lord of all, grant Thy servants the forgiveness of their manifold sins.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode43|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode43|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode43|melody', 'text' : 'N/M (You are my strength.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode43|text', 'text' : 'O Holder of all that has being, invisible, all-merciful, compassionate, Who lovest mankind, Thou holy Trinity and divine Ruler,forget not me Thy servant before the end; nor destroy the commandment Thou hast ordered for Thy servants in Thine ineffable mercy.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode4T|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode4T|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode4T|melody', 'text' : 'N/M (You are my strength.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode4T|text', 'text' : 'The pre-eternal Word found Thee above all beautiful, Thou Maiden, excellency of Jacob and He went and dwelt in Thee and through compassion He fashioned anew the nature of man. Entreat Him without ceasing to deliver me from every affliction.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode51|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode51|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode51|melody', 'text' : 'N/M (Why, O Lord.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode51|text', 'text' : 'We glorify Thee, O co-eternal three Persons and One Lord, simply dividing the divine nature and uniting it again and we cry in faith: O Holy Trinity divine Ruler, deliver Thy servants from every affliction.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode52|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode52|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode52|melody', 'text' : 'N/M (Why, O Lord.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode52|text', 'text' : 'I bewail the obscurity of my understanding brought about through weakness and how, without wishing to do so, I suffer an unwilling change indeed. Therefore I cry: O living sovereignty, Holy Trinity establish me to stand in all that is good.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode53|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode53|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode53|melody', 'text' : 'N/M (Why, O Lord.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode53|text', 'text' : 'As Thou lovest mankind and art more than good and all-merciful, O sovereign Holy Trinity, take pity on me burdened by the short sleep of sin and my feet set towards the sleep of death, and raise me up.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode5T|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode5T|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode5T|melody', 'text' : 'N/M (Why, O Lord.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode5T|text', 'text' : 'O Mother Virgin Maid, all-pure, without blemish, full of divine grace, by Thy prayers make Thy Son and Lord be merciful to me and swiftly deliver Thy servant from passions and faults.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode61|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode61|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode61|melody', 'text' : 'N/M (Be gracious to me.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode61|text', 'text' : 'Imitating the commanders of the hierarchies of the heavenly Intelligences, O Sovereign of all, from our mouths of clay we glorify Thee in threefold hymns, Thou more than divine Trinity.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode62|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode62|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode62|melody', 'text' : 'N/M (Be gracious to me.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode62|text', 'text' : 'I worship and honour and praise and magnify Thee, Who hast fashioned man according to Thine image and hast in Thy wisdom set up all things from nothingness, O God in three Persons.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode63|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode63|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode63|melody', 'text' : 'N/M (Be gracious to me.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode63|text', 'text' : 'Through ineffable mercy Thou God the Almighty and alone infinite has dwelt in me, O Master threefold Sun, enlighten me and give me understanding as Thou art compassionate.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode6T|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode6T|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode6T|melody', 'text' : 'N/M (Be gracious to me.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode6T|text', 'text' : 'Thou hast been shown forth the temple of the uncircumscribed God, O Virgin undefiled. Show me to be a temple of the divine grace by Thy prayers, O all-holy Lady and keep me unharmed.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Kathisma21|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Kathisma21|melody', 'text' : 'N/M (When he perceived.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Kathisma21|text', 'text' : 'We faithful truly confess the Father Who is without beginning, the Son also without beginning, and the Divine Spirit unconfused, undivided and changeless. And we cry aloud with the angels, O Trinity, simple, holy and One nature. Thou art holy, O Father, and O Son with the all-holy and sacred Spirit. Have mercy upon those Thou hast fashioned after Thine image, O Master.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Kathisma22|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Kathisma21|melody', 'text' : 'N/M (When he perceived.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Kathisma22|text', 'text' : 'We ever thank Thee, O Theotokos, and magnify and venerate and praise in song Thine Offspring, O Thou full of grace and we cry aloud without ceasing: Save us, O Virgin, as Thou art all-merciful and good. Pluck us from demons and in the hour of trial, in the day of the fearful rendering of accounts let not Thy servants be put to shame.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode71|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode71|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode71|melody', 'text' : 'N/M (The fire in Babylon.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode71|text', 'text' : 'By Thy wisdom past speech and the deep sea of Thy goodness show Thy servant freely subject to Thy mercy, and now as of old deliver him from evil, sins and passions, O Thou God Three in One.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode72|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode72|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode72|melody', 'text' : 'N/M (The fire in Babylon.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode72|text', 'text' : 'The Father, unbegotten Mind and the Word begotten of Him and the Divine Spirit incomprehensibly made manifest as proceeding from Him, O God, the sovereign, threefold Sun, I sing to Thee: Blessed art Thou, O God of our fathers.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode7T|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode7T|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode7T|melody', 'text' : 'N/M (The fire in Babylon.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode7T|text', 'text' : 'I am dead through sin and drink the healing remedy, O all-Pure, and run in faith to Thee who hast borne the Originator of life. By Thy prayers give Thy servant life and save him from temptations and passions, O Thou who alone art pure.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode81|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode81|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode81|melody', 'text' : 'N/M (The tyrant king.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode81|text', 'text' : 'O Thou Who art the light that never sets, threefold radiance and threefold Sun and sole Sovereign, sole Power, single God Who cannot be comprehended and Lord One might, enlighten now the darkness and gloominess of my heart and show me shining and bright that I may praise and glorify Thee for ever.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode82|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode82|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode82|melody', 'text' : 'N/M (The tyrant king.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode82|text', 'text' : 'The most divine seraphim reverently hide their faces and feet with their holy wings unable to bear the glory of Thine irresistible excellency, O sovereign, divine Ruler, Source of good, Thou holy Trinity. We also dare to sing of Thee and glorify Thee with faith for ever.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode83|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode83|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode83|melody', 'text' : 'N/M (The tyrant king.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode83|text', 'text' : 'I glorify Thee unto all ages with faith, O my God, Lordship without beginning, utterly strong, utterly good, Thou beginning of all perfection, invisible and operating with goodness, cause without cause, eternally creating, providing for and saving all things, One in essence, Three in Persons.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode8T|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode8T|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode8T|melody', 'text' : 'N/M (The tyrant king.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode8T|text', 'text' : 'The Sun that knows no evening shone forth upon earth through Thy virginal childbirth, O all-undefiled Lady, and He released mortal men from the darkening gloom of idolatry. Therefore enlighten me now exceedingly with the flashes of this same divine sovereignty and guard Thy servant.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode91|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode91|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode91|melody', 'text' : 'N/M (The heavens.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode91|text', 'text' : 'We glorify Thee, the monarch and creator of all, nature beyond beginning, beyond time, origin of life, compassionate, loving mankind, gracious, Thou one rule in Trinity, and we beg for forgiveness of sins, peace for the world and concord for the Church.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode92|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode92|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode92|melody', 'text' : 'N/M (The heavens.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode92|text', 'text' : 'Thou one Dominion and threefold Light, one divine Ruler, threefold Sun, accept according to Thy goodness those that sing of Thee and deliver them from faults and grievous temptations and vexations and grant peace and unity to Thy Church, O Thou Who lovest mankind.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode9T|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode9T|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode9T|melody', 'text' : 'N/M (The heavens.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMO|Ode9T|text', 'text' : 'O Christ my Saviour, Thou hast gone to dwell in a virgin womb and hast appeared to this world as God and man, truly without change and without confusion and Thou art plainly at all times with Thy servants. Therefore by the intercessions of Her that bore Thee do Thou grant all Thy flock peace.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|MM|GodIsTheLord|text', 'text' : 'For media only.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Kathisma11|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Kathisma11|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Kathisma11|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Kathisma12|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Kathisma12|melody', 'text' : 'N/M (By conceiving the wisdom.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Kathisma12|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Kathisma13|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Kathisma13|melody', 'text' : 'N/M (By conceiving the wisdom.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Kathisma13|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Kathisma21|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Kathisma21|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Kathisma21|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Kathisma22|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Kathisma22|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Kathisma22|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Kathisma23|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Kathisma23|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Kathisma23|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Hypakoe|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Hypakoe|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Hypakoe|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|MM|AntiphonsProkeimenon|text', 'text' : 'For media only.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon11|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon11|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon11|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon12|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon12|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon12|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon13|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon13|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon13|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon21|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon21|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon21|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon22|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon22|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon22|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon23|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon23|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon23|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon31|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon31|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon31|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon32|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon32|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon32|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon33|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon33|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon33|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon41|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon41|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon41|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon42|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon42|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon42|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon43|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon43|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Antiphon43|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|MM|Prokeimenon|text', 'text' : 'For media only.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|C3Acrostic|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C1H|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C1H|ode', 'text' : 'Canticle One.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C1H|melody', 'text' : 'Irmos.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C1H|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C11|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C11|ode', 'text' : 'Canticle One.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C11|melody', 'text' : 'N/M (The rod of Moses.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C11|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C12|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C12|ode', 'text' : 'Canticle One.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C12|melody', 'text' : 'N/M (The rod of Moses.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C12|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C1T|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C1T|ode', 'text' : 'Canticle One.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C1T|melody', 'text' : 'N/M (The rod of Moses.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C1T|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C21|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C21|ode', 'text' : 'Canticle One.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C21|melody', 'text' : 'N/M (Of old when the Israelite.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C21|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C22|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C22|ode', 'text' : 'Canticle One.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C22|melody', 'text' : 'N/M (Of old when the Israelite.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C22|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C2T|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C2T|ode', 'text' : 'Canticle One.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C2T|melody', 'text' : 'N/M (Of old when the Israelite.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C2T|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C31|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C31|ode', 'text' : 'Canticle One.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C31|melody', 'text' : 'N/M ()'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C31|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C32|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C32|ode', 'text' : 'Canticle One.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C32|melody', 'text' : 'N/M ()'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C32|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C33|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C33|ode', 'text' : 'Canticle One.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C33|melody', 'text' : 'N/M ()'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS1C33|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C1H|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C1H|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C1H|melody', 'text' : 'Irmos.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C1H|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C11|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C11|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C11|melody', 'text' : 'N/M (In the beginning.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C11|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C12|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C12|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C12|melody', 'text' : 'N/M (In the beginning.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C12|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C1T|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C1T|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C1T|melody', 'text' : 'N/M (In the beginning.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C1T|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C21|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C21|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C21|melody', 'text' : 'N/M (O divine Master Builder.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C21|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C22|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C22|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C22|melody', 'text' : 'N/M (O divine Master Builder.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C22|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C2T|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C2T|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C2T|melody', 'text' : 'N/M (O divine Master Builder.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C2T|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C31|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C31|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C31|melody', 'text' : 'N/M (Lord, You are the firm.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C31|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C32|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C32|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C32|melody', 'text' : 'N/M (Lord, You are the firm.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C32|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C33|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C33|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C33|melody', 'text' : 'N/M (Lord, You are the firm.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS3C33|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C1H|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C1H|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C1H|melody', 'text' : 'Irmos.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C1H|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C11|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C11|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C11|melody', 'text' : 'N/M (You are my strength.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C11|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C12|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C12|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C12|melody', 'text' : 'N/M (You are my strength.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C12|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C1T|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C1T|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C1T|melody', 'text' : 'N/M (You are my strength.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C1T|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C21|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C21|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C21|melody', 'text' : 'N/M (I have heard.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C21|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C22|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C22|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C22|melody', 'text' : 'N/M (I have heard.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C22|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C2T|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C2T|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C2T|melody', 'text' : 'N/M (I have heard.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C2T|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C31|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C31|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C31|melody', 'text' : 'N/M (I have heard.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C31|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C32|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C32|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C32|melody', 'text' : 'N/M (I have heard.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C32|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C33|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C33|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C33|melody', 'text' : 'N/M (I have heard.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS4C33|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C1H|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C1H|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C1H|melody', 'text' : 'Irmos.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C1H|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C11|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C11|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C11|melody', 'text' : 'N/M (Why, O Lord.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C11|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C12|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C12|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C12|melody', 'text' : 'N/M (Why, O Lord.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C12|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C1T|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C1T|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C1T|melody', 'text' : 'N/M (Why, O Lord.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C1T|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C21|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C21|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C21|melody', 'text' : 'N/M (Sovereign Lord.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C21|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C22|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C22|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C22|melody', 'text' : 'N/M (Sovereign Lord.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C22|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C2T|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C2T|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C2T|melody', 'text' : 'N/M (Sovereign Lord.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C2T|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C31|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C31|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C31|melody', 'text' : 'N/M ()'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C31|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C32|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C32|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C32|melody', 'text' : 'N/M ()'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C32|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C33|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C33|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C33|melody', 'text' : 'N/M ()'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS5C33|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C1H|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C1H|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C1H|melody', 'text' : 'Irmos.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C1H|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C11|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C11|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C11|melody', 'text' : 'N/M (Be gracious to me.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C11|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C12|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C12|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C12|melody', 'text' : 'N/M (Be gracious to me.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C12|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C1T|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C1T|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C1T|melody', 'text' : 'N/M (Be gracious to me.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C1T|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C21|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C21|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C21|melody', 'text' : 'N/M (My prayer.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C21|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C22|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C22|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C22|melody', 'text' : 'N/M (My prayer.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C22|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C2T|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C2T|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C2T|melody', 'text' : 'N/M (My prayer.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C2T|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C31|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C31|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C31|melody', 'text' : 'N/M ()'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C31|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C32|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C32|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C32|melody', 'text' : 'N/M ()'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C32|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C33|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C33|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C33|melody', 'text' : 'N/M ()'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS6C33|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Kontakion|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Kontakion|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Kontakion|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Oikos|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Oikos|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C1H|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C1H|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C1H|melody', 'text' : 'Irmos.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C1H|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C11|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C11|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C11|melody', 'text' : 'N/M (The fire in Babylon.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C11|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C12|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C12|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C12|melody', 'text' : 'N/M (The fire in Babylon.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C12|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C1Tr|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C1Tr|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C1Tr|melody', 'text' : 'N/M (The fire in Babylon.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C1Tr|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C21|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C21|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C21|melody', 'text' : 'N/M (The Servants.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C21|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C22|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C22|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C22|melody', 'text' : 'N/M (The Servants.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C22|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C2T|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C2T|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C2T|melody', 'text' : 'N/M (The Servants.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C2T|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C31|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C31|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C31|melody', 'text' : 'N/M (The Servants.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C31|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C32|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C32|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C32|melody', 'text' : 'N/M (The Servants.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C32|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C33|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C33|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C33|melody', 'text' : 'N/M (The Servants.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS7C33|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C1H|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C1H|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C1H|melody', 'text' : 'Irmos.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C1H|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C11|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C11|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C11|melody', 'text' : 'N/M (The tyrant king.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C11|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C12|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C12|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C12|melody', 'text' : 'N/M (The tyrant king.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C12|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C1Tr|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C1Tr|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C1Tr|melody', 'text' : 'N/M (The tyrant king.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C1Tr|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C21|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C21|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C21|melody', 'text' : 'N/M (By Your grace.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C21|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C22|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C22|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C22|melody', 'text' : 'N/M (By Your grace.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C22|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C2T|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C2T|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C2T|melody', 'text' : 'N/M (By Your grace.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C2T|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C31|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C31|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C31|melody', 'text' : 'N/M (O praise and bless Him.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C31|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C32|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C32|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C32|melody', 'text' : 'N/M (O praise and bless Him.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C32|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C33|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C33|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C33|melody', 'text' : 'N/M (O praise and bless Him.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS8C33|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C1H|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C1H|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C1H|melody', 'text' : 'Irmos.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C1H|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C11|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C11|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C11|melody', 'text' : 'N/M (The heavens.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C11|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C12|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C12|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C12|melody', 'text' : 'N/M (The heavens.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C12|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C1T|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C1T|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C1T|melody', 'text' : 'N/M (The heavens.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C1T|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C21|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C21|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C21|melody', 'text' : 'N/M (All hearers.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C21|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C22|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C22|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C22|melody', 'text' : 'N/M (All hearers.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C22|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C2T|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C2T|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C2T|melody', 'text' : 'N/M (All hearers.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C2T|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C31|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C31|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C31|melody', 'text' : 'N/M (You are the Theotokos.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C31|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C32|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C32|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C32|melody', 'text' : 'N/M (You are the Theotokos.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C32|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C33|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C33|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C33|melody', 'text' : 'N/M (You are the Theotokos.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|OdeS9C33|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Magnificat|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Magnificat|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|MM|Lauds01|text', 'text' : 'For media only.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|MM|Lauds02|text', 'text' : 'For media only.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|MM|LaudsStichologia|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Lauds1|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Lauds1|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Lauds1|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Lauds2|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Lauds2|melody', 'text' : 'N/M (Lord, even if.)'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Lauds2|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Lauds3|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Lauds3|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Lauds3|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Lauds4|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Lauds4|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Lauds4|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Lauds5|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Lauds5|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Lauds5|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Lauds6|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Lauds6|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Lauds6|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Lauds7|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Lauds7|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Lauds7|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Lauds8|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Lauds8|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|Lauds8|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|ApolTheotokion|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|ApolTheotokion|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocMA|ApolTheotokion|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|Beatitudes1|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|Beatitudes1|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|Beatitudes1|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|Beatitudes2|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|Beatitudes2|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|Beatitudes2|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|Beatitudes3|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|Beatitudes3|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|Beatitudes3|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|Beatitudes4|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|Beatitudes4|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|Beatitudes4|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|Beatitudes5|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|Beatitudes5|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|Beatitudes5|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|Beatitudes6|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|Beatitudes6|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|Beatitudes6|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|BeatitudesTr|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|BeatitudesTr|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|BeatitudesTr|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|BeatitudesT|mode', 'text' : 'Tone Eight.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|BeatitudesT|melody', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|BeatitudesT|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|MM|Beatitudes123Tas1234|text', 'text' : 'For media only.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|MM|Beatitudes123Tas5678|text', 'text' : 'For media only.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|MM|Beatitudes123456TrTas5678910GB|text', 'text' : 'For media only.'}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|MM|Prokeimenon|text', 'text' : ''}
+{'id_' : 'oc|m8|d1_en_FR_omvol|ocLI|Alleuia|text', 'text' : ''}

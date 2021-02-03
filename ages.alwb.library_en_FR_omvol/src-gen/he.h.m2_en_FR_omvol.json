@@ -1,0 +1,435 @@
+{'id_' : 'he|h|m2_en_FR_omvol|AkikoaKyrieTinEndoxon|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|AkikoaKyrieTinEndoxon|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|AkikoaKyrieTinEndoxon|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|AkikoaKyrieTinEndoxon|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'he|h|m2_en_FR_omvol|AkikoaKyrieTinEndoxon|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|AkikoeKyrieFonisSou|notmetered', 'text' : 'N/M (When You thundered.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|AkikoeKyrieFonisSou|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|AkikoeKyrieFonisSou|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|AkikoeKyrieFonisSou|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'he|h|m2_en_FR_omvol|AkikoeKyrieFonisSou|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|AnarchouGennitoros|notmetered', 'text' : 'N/M (To us has appeared.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|AnarchouGennitoros|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|AnarchouGennitoros|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|AnarchouGennitoros|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'he|h|m2_en_FR_omvol|AnarchouGennitoros|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|AntitheonProstagma|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|AntitheonProstagma|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|AntitheonProstagma|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|AntitheonProstagma|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'he|h|m2_en_FR_omvol|AntitheonProstagma|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|AporeiPasaGlossa|notmetered', 'text' : 'N/M (Every tongue.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|AporeiPasaGlossa|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|AporeiPasaGlossa|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|AporeiPasaGlossa|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'he|h|m2_en_FR_omvol|AporeiPasaGlossa|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|AsomenToKyrio|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|AsomenToKyrio|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|AsomenToKyrio|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|AsomenToKyrio|ode', 'text' : 'Canticle One.'}
+{'id_' : 'he|h|m2_en_FR_omvol|AsomenToKyrio|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|AtriptonAsynithi|notmetered', 'text' : 'N/M (When they had traversed.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|AtriptonAsynithi|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|AtriptonAsynithi|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|AtriptonAsynithi|ode', 'text' : 'Canticle One.'}
+{'id_' : 'he|h|m2_en_FR_omvol|AtriptonAsynithi|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|AvyssosAmartimaton|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|AvyssosAmartimaton|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|AvyssosAmartimaton|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|AvyssosAmartimaton|ode', 'text' : 'Canticle Two.'}
+{'id_' : 'he|h|m2_en_FR_omvol|AvyssosAmartimaton|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|DefteLaoi|notmetered', 'text' : 'N/M (Peoples, now come.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|DefteLaoi|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|DefteLaoi|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|DefteLaoi|ode', 'text' : 'Canticle One.'}
+{'id_' : 'he|h|m2_en_FR_omvol|DefteLaoi|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EchthrouZofodous|notmetered', 'text' : 'N/M (The Spirit's cleansing.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|EchthrouZofodous|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EchthrouZofodous|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|EchthrouZofodous|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'he|h|m2_en_FR_omvol|EchthrouZofodous|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EchthrouZofodous1|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EchthrouZofodous2|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EchthrouZofodous3|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EchthrouZofodous4|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EchthrouZofodous5|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EflexeReithro|notmetered', 'text' : 'N/M (He who retarded.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|EflexeReithro|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EflexeReithro|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|EflexeReithro|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'he|h|m2_en_FR_omvol|EflexeReithro|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EflexeReithro1|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EflexeReithro2|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EflexeReithro3|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EflexeReithro4|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EflexeReithro5|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EfrixePaidonEvagon|notmetered', 'text' : 'N/M (Fed with unending fuel.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|EfrixePaidonEvagon|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EfrixePaidonEvagon|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|EfrixePaidonEvagon|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'he|h|m2_en_FR_omvol|EfrixePaidonEvagon|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EikonosChrysis|notmetered', 'text' : 'N/M (The image of gold.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|EikonosChrysis|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EikonosChrysis|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|EikonosChrysis|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'he|h|m2_en_FR_omvol|EikonosChrysis|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EisakikoaKyrieTinAkoin|notmetered', 'text' : 'N/M (I have heard.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|EisakikoaKyrieTinAkoin|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EisakikoaKyrieTinAkoin|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|EisakikoaKyrieTinAkoin|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'he|h|m2_en_FR_omvol|EisakikoaKyrieTinAkoin|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EleftheraMenIKtisis|notmetered', 'text' : 'N/M (The created world.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|EleftheraMenIKtisis|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EleftheraMenIKtisis|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|EleftheraMenIKtisis|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'he|h|m2_en_FR_omvol|EleftheraMenIKtisis|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EleftheraMenIKtisis1|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EleftheraMenIKtisis2|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EleftheraMenIKtisis3|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EleftheraMenIKtisis4|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EleftheraMenIKtisis5|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|ElilythasEkParthenou|notmetered', 'text' : 'N/M (You came from a Virgin.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|ElilythasEkParthenou|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|ElilythasEkParthenou|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|ElilythasEkParthenou|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'he|h|m2_en_FR_omvol|ElilythasEkParthenou|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EmegalynasChriste|notmetered', 'text' : 'N/M (You have magnified.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|EmegalynasChriste|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EmegalynasChriste|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|EmegalynasChriste|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'he|h|m2_en_FR_omvol|EmegalynasChriste|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EnAvyssoPtaismaton|notmetered', 'text' : 'N/M (In the sea now.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|EnAvyssoPtaismaton|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EnAvyssoPtaismaton|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|EnAvyssoPtaismaton|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'he|h|m2_en_FR_omvol|EnAvyssoPtaismaton|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EnPetraMeTisPisteos|notmetered', 'text' : 'N/M (On the rock of faith.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|EnPetraMeTisPisteos|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EnPetraMeTisPisteos|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|EnPetraMeTisPisteos|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'he|h|m2_en_FR_omvol|EnPetraMeTisPisteos|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EnTiKamino|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|EnTiKamino|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EnTiKamino|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|EnTiKamino|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'he|h|m2_en_FR_omvol|EnTiKamino|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|EnVythoKatestrose|notmetered', 'text' : 'N/M (In the deep.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|EnVythoKatestrose|name', 'text' : 'A triumphant force.'}
+{'id_' : 'he|h|m2_en_FR_omvol|EnVythoKatestrose|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|EnVythoKatestrose|ode', 'text' : 'Canticle One.'}
+{'id_' : 'he|h|m2_en_FR_omvol|EnVythoKatestrose|text', 'text' : 'A triumphant force once laid low all the armed host of Pharaoh in the deep: even so the glorious Lord, the Word made flesh, has blotted out malignant sin; for He has been greatly glorified.'}
+{'id_' : 'he|h|m2_en_FR_omvol|ExinthisenIErimos|notmetered', 'text' : 'N/M (The wilderness.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|ExinthisenIErimos|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|ExinthisenIErimos|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|ExinthisenIErimos|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'he|h|m2_en_FR_omvol|ExinthisenIErimos|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|IEnOuranois|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|IEnOuranois|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|IEnOuranois|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|IEnOuranois|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'he|h|m2_en_FR_omvol|IEnOuranois|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|IFoniTouLogou|notmetered', 'text' : 'N/M (The voice of the Logos.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|IFoniTouLogou|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|IFoniTouLogou|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|IFoniTouLogou|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'he|h|m2_en_FR_omvol|IFoniTouLogou|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|ITonAchoritonTheon|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|ITonAchoritonTheon|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|ITonAchoritonTheon|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|ITonAchoritonTheon|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'he|h|m2_en_FR_omvol|ITonAchoritonTheon|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|ITonProIliouFostira|notmetered', 'text' : 'N/M (Lady, from your virginal belly.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|ITonProIliouFostira|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|ITonProIliouFostira|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|ITonProIliouFostira|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'he|h|m2_en_FR_omvol|ITonProIliouFostira|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|IchouRimatonDeiseos|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|IchouRimatonDeiseos|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|IchouRimatonDeiseos|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|IchouRimatonDeiseos|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'he|h|m2_en_FR_omvol|IchouRimatonDeiseos|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|IdeteIdeteOEnThalassi|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|IdeteIdeteOEnThalassi|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|IdeteIdeteOEnThalassi|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|IdeteIdeteOEnThalassi|ode', 'text' : 'Canticle Two.'}
+{'id_' : 'he|h|m2_en_FR_omvol|IdeteIdeteOEnThalassi|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|IisousOZoisArchigos|notmetered', 'text' : 'N/M (He is Jesus.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|IisousOZoisArchigos|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|IisousOZoisArchigos|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|IisousOZoisArchigos|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'he|h|m2_en_FR_omvol|IisousOZoisArchigos|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|ImertonExefine|notmetered', 'text' : 'N/M (With the blessed utterance.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|ImertonExefine|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|ImertonExefine|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|ImertonExefine|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'he|h|m2_en_FR_omvol|ImertonExefine|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|ImertonExefine1|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|ImertonExefine2|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|ImertonExefine3|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|ImertonExefine4|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|ImertonExefine5|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|IndalmatosChrysou|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|IndalmatosChrysou|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|IndalmatosChrysou|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|IndalmatosChrysou|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'he|h|m2_en_FR_omvol|IndalmatosChrysou|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|IschynODidous|notmetered', 'text' : 'N/M (The Lord who bestows.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|IschynODidous|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|IschynODidous|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|IschynODidous|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'he|h|m2_en_FR_omvol|IschynODidous|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|KaminosPote|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|KaminosPote|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|KaminosPote|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|KaminosPote|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'he|h|m2_en_FR_omvol|KaminosPote|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|MesitisTheou|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|MesitisTheou|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|MesitisTheou|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|MesitisTheou|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'he|h|m2_en_FR_omvol|MesitisTheou|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|MystirionParadoxon|notmetered', 'text' : 'N/M (The furnace once.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|MystirionParadoxon|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|MystirionParadoxon|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|MystirionParadoxon|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'he|h|m2_en_FR_omvol|MystirionParadoxon|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|NeousEfseveis|notmetered', 'text' : 'N/M (When the pious youths.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|NeousEfseveis|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|NeousEfseveis|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|NeousEfseveis|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'he|h|m2_en_FR_omvol|NeousEfseveis|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|OAnthraxToIsaia|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|OAnthraxToIsaia|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|OAnthraxToIsaia|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|OAnthraxToIsaia|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'he|h|m2_en_FR_omvol|OAnthraxToIsaia|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|OFotismos|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|OFotismos|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|OFotismos|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|OFotismos|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'he|h|m2_en_FR_omvol|OFotismos|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|OSkiografonAchlyn|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|OSkiografonAchlyn|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|OSkiografonAchlyn|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|OSkiografonAchlyn|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'he|h|m2_en_FR_omvol|OSkiografonAchlyn|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|OTinKaminonPalai|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|OTinKaminonPalai|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|OTinKaminonPalai|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|OTinKaminonPalai|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'he|h|m2_en_FR_omvol|OTinKaminonPalai|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|OTonYperNoun|notmetered', 'text' : 'N/M (O all spotless Bride.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|OTonYperNoun|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|OTonYperNoun|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|OTonYperNoun|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'he|h|m2_en_FR_omvol|OTonYperNoun|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|OTonYperNoun1|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|OTonYperNoun2|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|OTonYperNoun3|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|OTonYperNoun4|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|OTonYperNoun5|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|OTouFotosChorigos|notmetered', 'text' : 'N/M (Lord, the provider of light.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|OTouFotosChorigos|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|OTouFotosChorigos|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|OTouFotosChorigos|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'he|h|m2_en_FR_omvol|OTouFotosChorigos|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|OlosYparcheisEfesis|notmetered', 'text' : 'N/M (You are desire entirely.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|OlosYparcheisEfesis|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|OlosYparcheisEfesis|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|OlosYparcheisEfesis|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'he|h|m2_en_FR_omvol|OlosYparcheisEfesis|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|OsoiPalaion|notmetered', 'text' : 'N/M (From the ancient snares.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|OsoiPalaion|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|OsoiPalaion|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|OsoiPalaion|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'he|h|m2_en_FR_omvol|OsoiPalaion|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|OsoiPalaion1|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|OsoiPalaion2|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|OsoiPalaion3|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|OsoiPalaion4|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|OsoiPalaion5|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|ProsKyrionEkKitous|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|ProsKyrionEkKitous|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|ProsKyrionEkKitous|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|ProsKyrionEkKitous|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'he|h|m2_en_FR_omvol|ProsKyrionEkKitous|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|ProsecheteLaoi|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|ProsecheteLaoi|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|ProsecheteLaoi|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|ProsecheteLaoi|ode', 'text' : 'Canticle Two.'}
+{'id_' : 'he|h|m2_en_FR_omvol|ProsecheteLaoi|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|ProsecheteLaosMou|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|ProsecheteLaosMou|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|ProsecheteLaosMou|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|ProsecheteLaosMou|ode', 'text' : 'Canticle Two.'}
+{'id_' : 'he|h|m2_en_FR_omvol|ProsecheteLaosMou|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|PsychaisKatharais|notmetered', 'text' : 'N/M (With souls that are pure.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|PsychaisKatharais|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|PsychaisKatharais|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|PsychaisKatharais|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'he|h|m2_en_FR_omvol|PsychaisKatharais|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|PyrsoKathartheis|notmetered', 'text' : 'N/M (Once purged.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|PyrsoKathartheis|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|PyrsoKathartheis|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|PyrsoKathartheis|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'he|h|m2_en_FR_omvol|PyrsoKathartheis|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|PyrsoKathartheis1|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|PyrsoKathartheis2|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|PyrsoKathartheis3|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|PyrsoKathartheis4|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|PyrsoKathartheis5|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|RimaTyrannou|notmetered', 'text' : 'N/M (When the decree.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|RimaTyrannou|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|RimaTyrannou|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|RimaTyrannou|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'he|h|m2_en_FR_omvol|RimaTyrannou|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|RitoresAnedeichthisanPaides|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|RitoresAnedeichthisanPaides|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|RitoresAnedeichthisanPaides|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|RitoresAnedeichthisanPaides|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'he|h|m2_en_FR_omvol|RitoresAnedeichthisanPaides|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|SeTinNoitin|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|SeTinNoitin|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|SeTinNoitin|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|SeTinNoitin|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'he|h|m2_en_FR_omvol|SeTinNoitin|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|SteirothentaMouTonNoun|notmetered', 'text' : 'N/M (Barren has my mind.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|SteirothentaMouTonNoun|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|SteirothentaMouTonNoun|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|SteirothentaMouTonNoun|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'he|h|m2_en_FR_omvol|SteirothentaMouTonNoun|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|StereosonImasEnSoiKyrie|notmetered', 'text' : 'N/M (Establish us in You.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|StereosonImasEnSoiKyrie|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|StereosonImasEnSoiKyrie|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|StereosonImasEnSoiKyrie|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'he|h|m2_en_FR_omvol|StereosonImasEnSoiKyrie|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|SteiveiThalassis|notmetered', 'text' : 'N/M (Israel treaded.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|SteiveiThalassis|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|SteiveiThalassis|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|SteiveiThalassis|ode', 'text' : 'Canticle One.'}
+{'id_' : 'he|h|m2_en_FR_omvol|SteiveiThalassis|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|SteiveiThalassis1|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|SteiveiThalassis2|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|SteiveiThalassis3|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|SteiveiThalassis4|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|SteiveiThalassis5|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|SyToLogoSouKyrie|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|SyToLogoSouKyrie|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|SyToLogoSouKyrie|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|SyToLogoSouKyrie|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'he|h|m2_en_FR_omvol|SyToLogoSouKyrie|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TaCherouvimMimoumenoi|notmetered', 'text' : 'N/M (The Servants in the furnace.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|TaCherouvimMimoumenoi|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TaCherouvimMimoumenoi|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|TaCherouvimMimoumenoi|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'he|h|m2_en_FR_omvol|TaCherouvimMimoumenoi|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TinAchlynTisPsychisMou|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|TinAchlynTisPsychisMou|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TinAchlynTisPsychisMou|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|TinAchlynTisPsychisMou|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'he|h|m2_en_FR_omvol|TinAchlynTisPsychisMou|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TinAgninKaiAchranton|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|TinAgninKaiAchranton|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TinAgninKaiAchranton|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|TinAgninKaiAchranton|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'he|h|m2_en_FR_omvol|TinAgninKaiAchranton|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TinEkParthenou|notmetered', 'text' : 'N/M (When he foresaw.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|TinEkParthenou|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TinEkParthenou|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|TinEkParthenou|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'he|h|m2_en_FR_omvol|TinEkParthenou|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TinMoseosOdin|notmetered', 'text' : 'N/M (O my soul, taking up.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|TinMoseosOdin|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TinMoseosOdin|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|TinMoseosOdin|ode', 'text' : 'Canticle One.'}
+{'id_' : 'he|h|m2_en_FR_omvol|TinMoseosOdin|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TinParthenianSou|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|TinParthenianSou|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TinParthenianSou|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|TinParthenianSou|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'he|h|m2_en_FR_omvol|TinParthenianSou|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TinYperfyosSarki|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|TinYperfyosSarki|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TinYperfyosSarki|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|TinYperfyosSarki|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'he|h|m2_en_FR_omvol|TinYperfyosSarki|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TisNyktosDielthousis|notmetered', 'text' : 'N/M (With the night being over.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|TisNyktosDielthousis|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TisNyktosDielthousis|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|TisNyktosDielthousis|ode', 'text' : 'Canticle Five.'}
+{'id_' : 'he|h|m2_en_FR_omvol|TisNyktosDielthousis|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TisPisteosEnPetra|notmetered', 'text' : 'N/M (You strengthened me.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|TisPisteosEnPetra|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TisPisteosEnPetra|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|TisPisteosEnPetra|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'he|h|m2_en_FR_omvol|TisPisteosEnPetra|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|ToDogmatiToTyranniko|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|ToDogmatiToTyranniko|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|ToDogmatiToTyranniko|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|ToDogmatiToTyranniko|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'he|h|m2_en_FR_omvol|ToDogmatiToTyranniko|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|ToTinAvaton|notmetered', 'text' : 'N/M (Let us sing to the Lord.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|ToTinAvaton|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|ToTinAvaton|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|ToTinAvaton|ode', 'text' : 'Canticle One.'}
+{'id_' : 'he|h|m2_en_FR_omvol|ToTinAvaton|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TonArritoSofia|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|TonArritoSofia|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TonArritoSofia|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|TonArritoSofia|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'he|h|m2_en_FR_omvol|TonArritoSofia|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TonEkTheouTheonLogon|notmetered', 'text' : 'N/M (Being from God.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|TonEkTheouTheonLogon|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TonEkTheouTheonLogon|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|TonEkTheouTheonLogon|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'he|h|m2_en_FR_omvol|TonEkTheouTheonLogon|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TonEnFonaisAngelikais|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|TonEnFonaisAngelikais|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TonEnFonaisAngelikais|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|TonEnFonaisAngelikais|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'he|h|m2_en_FR_omvol|TonEnFonaisAngelikais|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TonEnKaminoTouPyros|notmetered', 'text' : 'N/M (When God went down.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|TonEnKaminoTouPyros|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TonEnKaminoTouPyros|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|TonEnKaminoTouPyros|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'he|h|m2_en_FR_omvol|TonEnKaminoTouPyros|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TonEnTiVatoMosi|notmetered', 'text' : 'N/M (Within the bush.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|TonEnTiVatoMosi|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TonEnTiVatoMosi|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|TonEnTiVatoMosi|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'he|h|m2_en_FR_omvol|TonEnTiVatoMosi|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TonGigenonTisIkouse|notmetered', 'text' : 'N/M (Among the earthborn.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|TonGigenonTisIkouse|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TonGigenonTisIkouse|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|TonGigenonTisIkouse|ode', 'text' : 'Canticle Nine.'}
+{'id_' : 'he|h|m2_en_FR_omvol|TonGigenonTisIkouse|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TonPalaiDrosisanta|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|TonPalaiDrosisanta|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|TonPalaiDrosisanta|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|TonPalaiDrosisanta|ode', 'text' : 'Canticle Eight.'}
+{'id_' : 'he|h|m2_en_FR_omvol|TonPalaiDrosisanta|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|ToxonSynetriviDynaston|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|ToxonSynetriviDynaston|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|ToxonSynetriviDynaston|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|ToxonSynetriviDynaston|ode', 'text' : 'Canticle Three.'}
+{'id_' : 'he|h|m2_en_FR_omvol|ToxonSynetriviDynaston|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|VatosEnOrei|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|VatosEnOrei|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|VatosEnOrei|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|VatosEnOrei|ode', 'text' : 'Canticle Seven.'}
+{'id_' : 'he|h|m2_en_FR_omvol|VatosEnOrei|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|VythoAmartimaton|notmetered', 'text' : 'N/M (The gulf of my transgressions.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|VythoAmartimaton|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|VythoAmartimaton|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|VythoAmartimaton|ode', 'text' : 'Canticle Six.'}
+{'id_' : 'he|h|m2_en_FR_omvol|VythoAmartimaton|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|VythouAnekalypse|notmetered', 'text' : 'N/M (The Lord who is powerful.)'}
+{'id_' : 'he|h|m2_en_FR_omvol|VythouAnekalypse|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|VythouAnekalypse|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|VythouAnekalypse|ode', 'text' : 'Canticle One.'}
+{'id_' : 'he|h|m2_en_FR_omvol|VythouAnekalypse|text', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|YmnoSeAkoi|notmetered', 'text' : 'N/M ()'}
+{'id_' : 'he|h|m2_en_FR_omvol|YmnoSeAkoi|name', 'text' : ''}
+{'id_' : 'he|h|m2_en_FR_omvol|YmnoSeAkoi|mode', 'text' : 'Tone Two'}
+{'id_' : 'he|h|m2_en_FR_omvol|YmnoSeAkoi|ode', 'text' : 'Canticle Four.'}
+{'id_' : 'he|h|m2_en_FR_omvol|YmnoSeAkoi|text', 'text' : ''}
